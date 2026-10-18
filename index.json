@@ -1,0 +1,226 @@
+{
+    "Metadata":  {
+                     "LatestVersion":  [
+                                           0,
+                                           1,
+                                           0
+                                       ]
+                 },
+    "Games":  [
+                  {
+                      "Title":  "People Playground",
+                      "Repo":  "ppg01",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/w7QDZ3rx/ppg01.zip",
+                      "Exe":  "People Playground.exe",
+                      "Args":  "",
+                      "Header":  "headers/ppg01.jpg",
+                      "HeroWide":  "headers/ppg01-wide.jpg",
+                      "Thumb":  "headers/ppg01-thumb.png",
+                      "Description":  "Shoot, stab, burn, poison, tear, vaporize, or crush ragdolls in a large open space.",
+                      "ReleaseDate":  "23 Jul, 2019",
+                      "Developer":  "mestiez",
+                      "Publisher":  "Studio Minus",
+                      "Tags":  [
+                                   "Sandbox",
+                                   "Gore",
+                                   "Physics",
+                                   "Violent",
+                                   "Moddable",
+                                   "2D",
+                                   "Mod"
+                               ]
+                  },
+                  {
+                      "Title":  "Five Nights at Freddy\u0027s",
+                      "Repo":  "fnaf1",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/kgZc8waS/fnaf1.zip",
+                      "Exe":  "FiveNightsatFreddys.exe",
+                      "Args":  "",
+                      "Description":  "Survive five terrifying nights as a night security guard at Freddy Fazbear\u0027s Pizza.",
+                      "ReleaseDate":  "8 Aug, 2014",
+                      "Developer":  "Scott Cawthon",
+                      "Publisher":  "Scott Cawthon",
+                      "Tags":  [
+                                   "Horror",
+                                   "Survival",
+                                   "Point \u0026 Click",
+                                   "Indie",
+                                   "Singleplayer"
+                               ]
+                  },
+                  {
+                      "Title":  "Five Nights at Freddy\u0027s 2",
+                      "Repo":  "fnaf2",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/ocS9VlDu/fnaf2.zip",
+                      "Exe":  "FiveNightsatFreddys2.exe",
+                      "Args":  "",
+                      "Description":  "The new and improved Freddy Fazbear\u0027s Pizza hides a darker secret. Survive until 6 AM.",
+                      "ReleaseDate":  "10 Nov, 2014",
+                      "Developer":  "Scott Cawthon",
+                      "Publisher":  "Scott Cawthon",
+                      "Tags":  [
+                                   "Horror",
+                                   "Survival",
+                                   "Point \u0026 Click",
+                                   "Indie",
+                                   "Singleplayer"
+                               ]
+                  },
+                  {
+                      "Title":  "Five Nights at Freddy\u0027s 3",
+                      "Repo":  "fnaf3",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/cdQUZbtH/fnaf3.zip",
+                      "Exe":  "FiveNightsatFreddys3.exe",
+                      "Args":  "",
+                      "Description":  "Thirty years on, a horror attraction rises from the haunted remains of Fazbear\u0027s Fright.",
+                      "ReleaseDate":  "2 Mar, 2015",
+                      "Developer":  "Scott Cawthon",
+                      "Publisher":  "Scott Cawthon",
+                      "Tags":  [
+                                   "Horror",
+                                   "Survival",
+                                   "Point \u0026 Click",
+                                   "Indie",
+                                   "Singleplayer"
+                               ]
+                  },
+                  {
+                      "Title":  "Five Nights at Freddy\u0027s 4",
+                      "Repo":  "fnaf4",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/fpw41JRj/fnaf4.zip",
+                      "Exe":  "FiveNightsatFreddys4.exe",
+                      "Args":  "",
+                      "Description":  "This time, the terror has followed you home. Survive the nightmares in your own bedroom.",
+                      "ReleaseDate":  "23 Jul, 2015",
+                      "Developer":  "Scott Cawthon",
+                      "Publisher":  "Scott Cawthon",
+                      "Tags":  [
+                                   "Horror",
+                                   "Survival",
+                                   "Point \u0026 Click",
+                                   "Indie",
+                                   "Singleplayer"
+                               ]
+                  },
+                  {
+                      "Title":  "FNAF: Sister Location",
+                      "Repo":  "fnafsl",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/ztqJhrcH/fnafsl.zip",
+                      "Exe":  "SisterLocation.exe",
+                      "Args":  "",
+                      "Description":  "Welcome to Circus Baby\u0027s Pizza World, where family fun goes beyond anything you\u0027ve seen before.",
+                      "ReleaseDate":  "7 Oct, 2016",
+                      "Developer":  "Scott Cawthon",
+                      "Publisher":  "Scott Cawthon",
+                      "Tags":  [
+                                   "Horror",
+                                   "Adventure",
+                                   "Indie",
+                                   "Singleplayer"
+                               ]
+                  },
+                  {
+                      "Title":  "FNAF 4: Halloween Edition",
+                      "Repo":  "fnaf4he",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/xHjmSEt9/fnaf4he.zip",
+                      "Exe":  "HalloweenEdition.exe",
+                      "Args":  "",
+                      "Description":  "The Halloween update to FNAF 4, with Jack-o\u0027-lanterns and all-new crazy challenges.",
+                      "ReleaseDate":  "31 Oct, 2015",
+                      "Developer":  "Scott Cawthon",
+                      "Publisher":  "Scott Cawthon",
+                      "Tags":  [
+                                   "Horror",
+                                   "Survival",
+                                   "Point \u0026 Click",
+                                   "Indie",
+                                   "Halloween"
+                               ]
+                  },
+                  {
+                      "Title":  "Minecraft: Legacy Console Edition",
+                      "Repo":  "mclce",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/qjwY8KeC/mclce.zip",
+                      "Exe":  "Minecraft.Client.exe",
+                      "Args":  "",
+                      "Description":  "The classic console Minecraft brought to PC â€” tutorials, mini-games, and the full Legacy Console Edition feel, DLC packs included.",
+                      "ReleaseDate":  "5 Sep, 2014",
+                      "Developer":  "Mojang Studios / 4J Studios",
+                      "Publisher":  "Mojang",
+                      "Tags":  [
+                                   "Sandbox",
+                                   "Survival",
+                                   "Building",
+                                   "Open World",
+                                   "Classic"
+                               ]
+                  },
+                  {
+                      "Title":  "Call of Duty",
+                      "Repo":  "cod1",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/gVhk243T/cod1.zip",
+                      "Exe":  "CoDSP.exe",
+                      "Args":  "",
+                      "Description":  "The original Call of Duty â€” the WWII shooter that started it all. Fight as American, British and Soviet soldiers across the campaign.",
+                      "ReleaseDate":  "29 Oct, 2003",
+                      "Developer":  "Infinity Ward",
+                      "Publisher":  "Activision",
+                      "Tags":  [
+                                   "FPS",
+                                   "World War II",
+                                   "Action",
+                                   "Shooter",
+                                   "Classic"
+                               ]
+                  },
+                  {
+                      "Title":  "Among Us",
+                      "Repo":  "amongus",
+                      "Url":  "github://WSeed-repo1/repo1/8yi2IObl/LatestAmongUs.7z.001",
+                      "Password":  "67$$TripleTAcademyWelcomesYou$$4162",
+                      "Exe":  "Among Us.exe",
+                      "Args":  "",
+                      "Header":  "headers/amongus.jpg",
+                      "HeroWide":  "headers/amongus-wide.jpg",
+                      "Thumb":  "headers/amongus-thumb.png",
+                      "Description":  "An epic multiplayer game of teamwork and betrayal. Prep your spaceship for departure â€” just beware: one crewmate is an impostor.",
+                      "ReleaseDate":  "16 Nov, 2018",
+                      "Developer":  "Innersloth",
+                      "Publisher":  "Innersloth",
+                      "Tags":  [
+                                   "Party",
+                                   "Multiplayer",
+                                   "Social Deduction",
+                                   "Casual",
+                                   "Online Co-Op"
+                               ]
+                  },
+                  {
+                      "Title":  "Minecraft: Story Mode",
+                      "Repo":  "mcsm",
+                      "Parts":  [
+                                    "https://github.com/WSeed-repo1/repo1/releases/download/z1yBurB4/Minecraft.-.Story.Mode.7z.001",
+                                    "https://github.com/WSeed-repo1/repo1/releases/download/z1yBurB4/Minecraft.-.Story.Mode.7z.002",
+                                    "https://github.com/WSeed-repo1/repo1/releases/download/z1yBurB4/Minecraft.-.Story.Mode.7z.003",
+                                    "https://github.com/WSeed-repo1/repo1/releases/download/z1yBurB4/Minecraft.-.Story.Mode.7z.004"
+                                ],
+                      "Password":  "67$$TripleTAcademyWelcomesYou$$4162",
+                      "Exe":  "GameApp.exe",
+                      "Args":  "",
+                      "Header":  "headers/mcsm.jpg",
+                      "HeroWide":  "headers/mcsm-wide.jpg",
+                      "Thumb":  "headers/mcsm-thumb.png",
+                      "Description":  "Your choices shape Jesse\u0027s journey through the Minecraft universe â€” an episodic Telltale adventure across the legacy of the New Order of the Stone.",
+                      "ReleaseDate":  "13 Oct, 2015",
+                      "Developer":  "Telltale Games",
+                      "Publisher":  "Telltale Games",
+                      "Tags":  [
+                                   "Adventure",
+                                   "Story Rich",
+                                   "Point \u0026 Click",
+                                   "Episodic",
+                                   "Choices Matter"
+                               ]
+                  }
+              ]
+}
