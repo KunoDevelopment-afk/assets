@@ -231,10 +231,6 @@
                       "Header":  "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/headers/fiveplay.jpg",
                       "HeroWide":  "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/headers/fiveplay-wide.jpg",
                       "Thumb":  "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/headers/fiveplay-thumb.png",
-                      "Screenshots":  [
-                                          "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/shots/fiveplay/1.jpg",
-                                          "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/shots/fiveplay/2.jpg"
-                                      ],
                       "Description":  "Unofficial browser port of GTA V on fiveplay.lol: Story Mode plus Sandbox Mode on the GTA V or GTA VI map. Streams its game data on first launch (~1.3 GB), so it needs internet. F11 / Alt+Enter toggles fullscreen.",
                       "ReleaseDate":  "15 Oct, 2026",
                       "Developer":  "fiveplay.lol",
