@@ -143,7 +143,7 @@
                       "Url":  "https://github.com/kunostorage/fstor1/releases/download/qjwY8KeC/mclce.zip",
                       "Exe":  "Minecraft.Client.exe",
                       "Args":  "",
-                      "Description":  "The classic console Minecraft brought to PC â€” tutorials, mini-games, and the full Legacy Console Edition feel, DLC packs included.",
+                      "Description":  "The classic console Minecraft brought to PC Ã¢â‚¬â€ tutorials, mini-games, and the full Legacy Console Edition feel, DLC packs included.",
                       "ReleaseDate":  "5 Sep, 2014",
                       "Developer":  "Mojang Studios / 4J Studios",
                       "Publisher":  "Mojang",
@@ -161,7 +161,7 @@
                       "Url":  "https://github.com/kunostorage/fstor1/releases/download/gVhk243T/cod1.zip",
                       "Exe":  "CoDSP.exe",
                       "Args":  "",
-                      "Description":  "The original Call of Duty â€” the WWII shooter that started it all. Fight as American, British and Soviet soldiers across the campaign.",
+                      "Description":  "The original Call of Duty Ã¢â‚¬â€ the WWII shooter that started it all. Fight as American, British and Soviet soldiers across the campaign.",
                       "ReleaseDate":  "29 Oct, 2003",
                       "Developer":  "Infinity Ward",
                       "Publisher":  "Activision",
@@ -183,7 +183,7 @@
                       "Header":  "headers/amongus.jpg",
                       "HeroWide":  "headers/amongus-wide.jpg",
                       "Thumb":  "headers/amongus-thumb.png",
-                      "Description":  "An epic multiplayer game of teamwork and betrayal. Prep your spaceship for departure â€” just beware: one crewmate is an impostor.",
+                      "Description":  "An epic multiplayer game of teamwork and betrayal. Prep your spaceship for departure Ã¢â‚¬â€ just beware: one crewmate is an impostor.",
                       "ReleaseDate":  "16 Nov, 2018",
                       "Developer":  "Innersloth",
                       "Publisher":  "Innersloth",
@@ -210,7 +210,7 @@
                       "Header":  "headers/mcsm.jpg",
                       "HeroWide":  "headers/mcsm-wide.jpg",
                       "Thumb":  "headers/mcsm-thumb.png",
-                      "Description":  "Your choices shape Jesse\u0027s journey through the Minecraft universe â€” an episodic Telltale adventure across the legacy of the New Order of the Stone.",
+                      "Description":  "Your choices shape Jesse\u0027s journey through the Minecraft universe Ã¢â‚¬â€ an episodic Telltale adventure across the legacy of the New Order of the Stone.",
                       "ReleaseDate":  "13 Oct, 2015",
                       "Developer":  "Telltale Games",
                       "Publisher":  "Telltale Games",
@@ -220,6 +220,31 @@
                                    "Point \u0026 Click",
                                    "Episodic",
                                    "Choices Matter"
+                               ]
+                  },
+                  {
+                      "Title":  "GTA V (Browser Port)",
+                      "Repo":  "fiveplay",
+                      "Url":  "https://github.com/kunostorage/fstor1/releases/download/EoBqLyM4/fiveplay.zip",
+                      "Exe":  "FivePlay.exe",
+                      "Args":  "",
+                      "Header":  "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/headers/fiveplay.jpg",
+                      "HeroWide":  "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/headers/fiveplay-wide.jpg",
+                      "Thumb":  "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/headers/fiveplay-thumb.png",
+                      "Screenshots":  [
+                                          "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/shots/fiveplay/1.jpg",
+                                          "https://raw.githubusercontent.com/KunoDevelopment-afk/assets/refs/heads/main/shots/fiveplay/2.jpg"
+                                      ],
+                      "Description":  "Unofficial browser port of GTA V on fiveplay.lol: Story Mode plus Sandbox Mode on the GTA V or GTA VI map. Streams its game data on first launch (~1.3 GB), so it needs internet. F11 / Alt+Enter toggles fullscreen.",
+                      "ReleaseDate":  "15 Oct, 2026",
+                      "Developer":  "fiveplay.lol",
+                      "Publisher":  "fiveplay.lol",
+                      "Tags":  [
+                                   "Action",
+                                   "Open World",
+                                   "Sandbox",
+                                   "Third Person",
+                                   "Browser"
                                ]
                   }
               ]
